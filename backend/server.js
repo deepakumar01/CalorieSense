@@ -9,7 +9,7 @@ const axios = require("axios");
 
 const app = express();
 const PORT = 5000;
-const ML_SERVICE = "http://localhost:5001";
+const ML_SERVICE = "https://caloriesense-bwkm.onrender.com";
 
 app.use(cors());
 app.use(express.json());
