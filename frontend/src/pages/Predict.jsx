@@ -64,7 +64,7 @@ export default function Predict() {
         payload[f.key] = Number(form[f.key])
       }
 
-      const res = await fetch('/api/predict', {
+      const res = await fetch(`${import.meta.env.VITE_API_BASE_URL || ''}/api/predict`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(payload),

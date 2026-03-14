@@ -18,7 +18,7 @@ export default function About() {
   const [meta, setMeta] = useState(null)
 
   useEffect(() => {
-    fetch('/api/meta')
+    fetch(`${import.meta.env.VITE_API_BASE_URL || ''}/api/meta`)
       .then(r => r.json())
       .then(setMeta)
       .catch(() => {})
