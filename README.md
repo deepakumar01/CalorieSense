@@ -52,11 +52,11 @@ Navigate to **http://localhost:3000**
 
 ## Pages
 
-- **Landing** (`/`) – Hero section with animated energy visuals
-- **Predict** (`/predict`) – Input body metrics, get AI calorie prediction
-- **AI Insights** (`/insights`) – How the ML model works
-- **Visualize** (`/visualize`) – Prediction history charts
-- **About** (`/about`) – Model details, dataset, accuracy
+- **Landing** (`/`) – Hero section with animated energy visuals.
+- **Predict** (`/predict`) – Input body metrics, get AI calorie prediction.
+- **AI Insights** (`/insights`) – How the ML model works.
+- **Visualize** (`/visualize`) – Prediction history charts.
+- **About** (`/about`) – Model details, dataset, accuracy.
 
 ## API Endpoints
 
