@@ -5,7 +5,7 @@ A full-stack web application that uses machine learning to predict calories burn
 ## Tech Stack.
 
 | Layer | Technologies |
-|-------|-------------|
+|-------|--------------|
 | Frontend | React 18, Vite, Tailwind CSS 3, Framer Motion, Recharts |
 | Backend | Node.js, Express.js, Axios |
 | ML Model | Python, Scikit-learn (Random Forest), Flask |
