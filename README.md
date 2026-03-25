@@ -61,7 +61,7 @@ Navigate to **http://localhost:3000**
 ## API Endpoints
 
 | Method | Endpoint | Description |
-|--------|----------|--------------|
+|--------|----------|-------------|
 | POST | `/api/predict` | Send body metrics, receive calorie prediction  |
 | GET | `/api/meta` | Get model metadata (accuracy, features) |
 | GET | `/api/health` | Health check |
