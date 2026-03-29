@@ -27,7 +27,6 @@ cd ml-model
 python predict_server.py
 # Runs on http://localhost:5001
 ```
-
 ### 3. Start the Node.js Backend
 
 ```bash
