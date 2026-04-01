@@ -2,7 +2,6 @@
 
 A full-stack web application that uses machine learning to predict calories burned during exercise.
 
-
 ## Tech Stack.
 
 | Layer | Technologies |
